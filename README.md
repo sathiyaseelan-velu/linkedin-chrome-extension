@@ -36,4 +36,5 @@ This should create a production bundle for your extension, ready to be zipped an
 
 ## Demo Video
 
-<video controls src="demo.mp4" title="Demo video"></video>
+https://github.com/sathiyaseelan-velu/linkedin-chrome-extension/assets/162041057/cdb1cc95-dfec-4a28-b3a2-7e595a747c55
+
