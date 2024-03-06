@@ -3,3 +3,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .btn {
+    @apply flex justify-center items-center px-6 py-3 gap-2.5 min-w-[150px] h-[53px] rounded-lg font-semibold text-2xl;
+  }
+
+  .filled {
+    @apply bg-[#3B82F6] text-white;
+  }
+
+  .outlined {
+    @apply border-2 border-gray-500 text-gray-500;
+  }
+}

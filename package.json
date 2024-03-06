@@ -26,6 +26,16 @@
     "typescript": "5.3.3"
   },
   "manifest": {
+    "web_accessible_resources": [
+      {
+        "resources": [
+          "assets/*"
+        ],
+        "matches": [
+          "https://*.linkedin.com/*"
+        ]
+      }
+    ],
     "host_permissions": [
       "https://*/*"
     ]
