@@ -33,3 +33,7 @@ npm run build
 ```
 
 This should create a production bundle for your extension, ready to be zipped and published to the stores.
+
+## Demo Video
+
+<video controls src="demo.mp4" title="Demo video"></video>
